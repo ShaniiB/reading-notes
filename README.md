@@ -6,7 +6,8 @@
   ### Contact Information
   <ul>
     <li> Shanythia.M.Richards@gmail.com</li>
-    <li> 901 264 7922 </li>
+    <li> Shanii#2297
+    <li> PVT message me </li>
   </ul>
   
   [My Github](https://github.com/ShaniiB)
@@ -22,5 +23,6 @@ Growth mindset is to me is the ability is to excercise my mind and push it past 
   <li>I will push myself to become a <i> better learner</i>. </li>
   </ul>
 
+<i><strike>Forever</strike> a work in progress</i>.
   
    
