@@ -1,9 +1,9 @@
 
- #### My Introduction
+ <h2> My Introduction </h2>
   
   My name is Shanythia Richards known as Shanii by most. 26 years old, born and raised in Memphis, TN. I aspire to be a Front-End designer.
   
-  #### Contact Information
+  <h3> Contact Information </h3>
   
   <ul>
     <li> Shanythia.M.Richards@gmail.com </li>
@@ -14,7 +14,7 @@
   [My Github](https://github.com/ShaniiB)
 
 
-### What is growth mindset to me?
+<h2> What is growth mindset to me </h2>
 
 Growth mindset is to me is the ability is to excercise my mind and push it past any bounderies. 
 
