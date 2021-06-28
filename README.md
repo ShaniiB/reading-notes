@@ -3,7 +3,7 @@
   
   My name is Shanythia Richards known as Shanii by most. 26 years old, born and raised in Memphis, TN. I aspire to be a Front-End designer.
   
-  <h3> Contact Information </h3>
+  <h4> Contact Information </h4>
   
   <ul>
     <li> Shanythia.M.Richards@gmail.com </li>
