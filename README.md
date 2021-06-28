@@ -1,16 +1,15 @@
 # Growth Mindset Notes
 
 ## What is growth mindset to me?
-### Defining in my own words
 
 Growth mindset is to me is the ability is to excercise my mind and push it past any bounderies. 
-<html>
+
   <ul>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>I will remove "can't" from my vocabulary when it comes to learning.</li>
+    <li>I will be more positive when to comes to learning.</li>
+    <li>I will push myself to become a better learner.</li>
   </ul>
- </html>
+ 
   
-  https://github.com/ShaniiB
+  Here is a link to my personal Github : https://github.com/ShaniiB
    
