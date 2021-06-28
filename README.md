@@ -6,7 +6,7 @@
   ### Contact Information
   <ul>
     <li> Shanythia.M.Richards@gmail.com</li>
-    <li> Shanii#2297
+    <li> Shanii#2297 </li>
     <li> PVT message me </li>
   </ul>
   
