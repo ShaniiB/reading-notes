@@ -1,10 +1,10 @@
-<h1> Here are my notes on GitHub Pages & Markdown. </h1>
+<h1> Here are my notes on Markdown & Github Pages. </h1>
 <h3>forever a work in progress.</h3>
 
-<h2> Github Pages </h2>
+<h2> Markdown </h2>
 
-<b>  Doesn't need severs or databases to funcation. </b>
-<b> Github uses Jekyll to transform turn plain text into static websites. </b>
+<b>  What is Markdown? </b>
+<b>  Is a specific way to stylize text on a web. </b>
  <ul>
  <li><b> Repositories </b> are used to showcase things like portfolios, documentations and even projects. </li>
 </ul>
