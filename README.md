@@ -1,9 +1,15 @@
 # Growth Mindset Notes
 
-## HEADING ONE
-### subheading
-sample text, sample text, sample text
+## What is growth mindset to me?
+### Defining in my own words
 
-## HEADING TWO
-### subheading
-sample text, sample text, sample text
+Growth mindset is to me is the ability is to excercise my mind and push it past any bounderies. 
+<html>
+  <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+  </ul>
+ </html>
+  
+   
