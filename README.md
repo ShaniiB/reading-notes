@@ -10,6 +10,6 @@ Growth mindset is to me is the ability is to excercise my mind and push it past 
     <li>I will push myself to become a <u>better learner</u>.</li>
   </ul>
  
+  [Github](https://github.com/ShaniiB)
   
-  Here is a link to my personal Github : https://github.com/ShaniiB
    
