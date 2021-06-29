@@ -7,6 +7,13 @@
 > A computer terminal is an electronic or electromechanical hardware device that can be used for entering data into, 
 and transcribing data from, a computer or a computing system. 
 
+<ul>
+   <li> --- </li>
+   <li> --- </li>
+   <li> --- </li>
+   <li> --- </li>
+ </ul> 
+
 ### title// TEXT Editor
 
 . // <b> what is a text editor? </b>
