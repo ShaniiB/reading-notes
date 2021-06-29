@@ -12,6 +12,7 @@
   </ul>
   
   [My Github](https://github.com/ShaniiB)
+  [GrowthMindset Notes](/reading-notes/growthmindset)
 
 
 <h2> What is growth mindset to me </h2>
