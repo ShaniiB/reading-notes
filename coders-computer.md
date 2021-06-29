@@ -29,7 +29,7 @@ important tools you can use as an aspiring web developer.
 <i> examples </i>
 > Notepad ++ , Text Wrangler, BB Edit, Visual Studio Code, ATOM , Brackets, and Sublime Text
 
-. // <b> what to look for in a text editor ? </b>
+. //_<b> what to look for in a text editor ? </b>
 <ul>
    <li> Code Completion </li>
    <li> Syntax Highlighting</li>
