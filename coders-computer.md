@@ -1,8 +1,8 @@
-# NOTES__// CODER'S COMPUTER 
+# NOTES__//_CODER'S COMPUTER 
 
-### title// TERMINAL
+### title//_TERMINAL
 
-. // <b> what is a terminal? </b>
+. //___<b> what is a terminal? </b>
 
 > A computer terminal is an electronic or electromechanical hardware device that can be used for entering data into, 
 and transcribing data from, a computer or a computing system. 
@@ -14,9 +14,9 @@ and transcribing data from, a computer or a computing system.
    <li> --- </li>
  </ul> 
 
-### title// TEXT Editor
+### title//_TEXT Editor
 
-. // <b> what is a text editor? </b>
+. //___<b> what is a text editor? </b>
 
 > Text editor is a piece of software that you download and install on
 your computer, or you access online through your web browser, that
@@ -24,7 +24,7 @@ allows you to write and manage text, especially the text that you write
 to build a web site. The text editor has to be one of the most
 important tools you can use as an aspiring web developer.
 
-### content// GLOSSARY__texteditors
+### content//_GLOSSARY__texteditors
 
 <i> examples </i>
 > Notepad ++ , Text Wrangler, BB Edit, Visual Studio Code, ATOM , Brackets, and Sublime Text
