@@ -17,10 +17,7 @@ developing source code during software development. Its goals include speed, dat
  . //_<b> what is A C P ? </b>
 
  <ul>
-  <li>ADD</li>
-   <u><p> git add . </p></u> shows everything that has been changed/added to a file.
-  <li>COMMIT</li>
-   <p> git commit -m "notes"</p> saves changes on my version of a file.
-  <li>PUSH</li>
-   <p> git push </p> pushes my changes to GitHub from text editors such as VSC.
+  <li>ADD <b> git add . </b> <p> shows everything that has been changed/added to a file.</p> </li>
+  <li>COMMIT <b> git commit -m "notes" </b> <p> saves changes on my version of a file. </p> </li>
+  <li>PUSH <b> git push </b> <p> pushes my changes to GitHub from text editors such as VSC.</p> </li>
 </ul>
