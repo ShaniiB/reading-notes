@@ -8,7 +8,7 @@
 <hr>
 <ul>
   <li> --- </li> <b> // test </b>
-  <li> --- </li> <b>  // </b>
+  <li> --- </li> <b>  // test </b>
 </ul>
  <hr>
  . //_<b> java interactions </b>
