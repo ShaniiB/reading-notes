@@ -31,7 +31,7 @@
   <li> <b> Comparison </b> </li>
   <li> <b> Logical </b> </li>
   <li> <b> Bitwise </b> </li>
-  <li> <b> And many others.. </b> </li?>
+  <li> <b> And many others.. </b> </li>
 </ul>
 <hr>
 
