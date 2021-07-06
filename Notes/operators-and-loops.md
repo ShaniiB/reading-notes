@@ -11,8 +11,10 @@
 <ul>
   <li> <b> a Value </b> </li>
   <li> <b> a Variable </b> </li>
-  <li> <b>  Nothing ( Void ) </b> </li>
+  <li> <b> Nothing ( Void ) </b> </li>
 </ul>
+<a href="https://www.thoughtco.com/expression-2034097"> Detailed in here! </a>
+<hr>
  <hr>
 
 ###  __subject//___understanding-java-operators
@@ -29,8 +31,7 @@
   <li> <b> Assignment </b> </li>
   <li> <b> Comparison </b> </li>
   </ul>
-<br>
-  <a href="https://docs.oracle.com/javase/tutorial/java/nutsandbolts/opsummary.html"> And many others! </a>
+<a href="https://docs.oracle.com/javase/tutorial/java/nutsandbolts/opsummary.html"> More in here! </a>
 <hr>
 
 ### __subject//___understanding-loops
@@ -41,6 +42,7 @@
 <hr>
 
 ### .snippet//__some-loop-statemennt(s)
+
 <ul>
   <li> <b> for </b> statement is a loop that runs for a preset number of times. </li>
   <li> <b> do...while </b> statement or <b> repeat until </b> loop repeats until an expression becomes false.</li>

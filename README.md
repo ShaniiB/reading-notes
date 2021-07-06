@@ -2,7 +2,7 @@
 <br>
 <hr>
 
-### .dossier//_<b>get to know me a little better</b>
+### .dossier//_<b>get-to-know-me-a-little-better</b>
 
 <hr>
 <b> </b> // <b> </b> // <b> </b> // <b> </b> // <b> </b>
@@ -17,7 +17,9 @@
 <hr>
 <br>
 
-### subject//___my collection of notes
+### subject//___my-collection-of-notes
+
+
  <ul>
   <li> <a href="https://shaniib.github.io/reading-notes/Notes/html-notes"> HTML Notes </a> </li>
   <li> <a href="https://shaniib.github.io/reading-notes/Notes/learning-markdown"> Learning Markdown </a> </li>
