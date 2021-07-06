@@ -29,4 +29,3 @@
   <li> <a href="https://shaniib.github.io/reading-notes/Notes/java-notes"> JavaScript Notes</a> </li>
   <li> <a href="https://shaniib.github.io/reading-notes/Notes/operators-and-loops"> Operators and Loops</a> </li>
  </ul>
- 

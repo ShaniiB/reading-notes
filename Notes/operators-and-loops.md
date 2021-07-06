@@ -4,9 +4,10 @@
 
 
 > Expressions are essential building blocks of any Java program, usually created to produce a new value, although sometimes an expression assigns a value to a variable. Expressions are built using values, variables, operators and method calls.
+
 <hr>
 
- ### .snippet//__<b>java-has-three-expressions 
+ ### .snippet//__java-has-three-expressions 
 
 <ul>
   <li> <b> a Value </b> </li>
@@ -14,14 +15,15 @@
   <li> <b> Nothing ( Void ) </b> </li>
 </ul>
 <a href="https://www.thoughtco.com/expression-2034097"> Detailed in here! </a>
-<hr>
- <hr>
+
+<hr><hr>
 
 ###  __subject//___understanding-java-operators
 
 ### ._//__<b>what-are-operators-in-java?</b>
 
 > Operators are used to perform operations on variables and values. Java divides the operators into the following groups.
+
 <hr>
 
 ### .snippet//__some-of-the-operators 
@@ -32,13 +34,15 @@
   <li> <b> Comparison </b> </li>
   </ul>
 <a href="https://docs.oracle.com/javase/tutorial/java/nutsandbolts/opsummary.html"> More in here! </a>
-<hr>
+
+<hr><hr>
 
 ### __subject//___understanding-loops
 
 ### ._//__<b>what-are-loops?</b>
 
 > Loops offer a quick and easy way to do something repeatedly.  think of a loop as a computerized version of the game where you tell someone to take X steps in one direction, then Y steps in another. There are many different kinds of loops, but they all essentially do the same thing: they repeat an action some number of times. The various loop mechanisms offer different ways to determine the start and end points of the loop. There are various situations that are more easily served by one type of loop over the others.
+
 <hr>
 
 ### .snippet//__some-loop-statemennt(s)
@@ -52,6 +56,7 @@
   <li> <b> continue </b> statement jumps to the next iteration of the loop, skipping any code in between.</li>
   <li> <b> infinite </b> or <b> endless </b> statement is a loop that repeats indefinitely because it has no terminating condition, the exit condition is never met or the loop is instructed to start over from the beginning. Although it is possible for a programmer to intentionally use an infinite loop, they are often mistakes made by new programmers.</li>
 </ul>
-<hr>
+
+<hr><hr>
 
 <center> <a href="https://shaniib.github.io/reading-notes"> Return to Reading Notes </a> <center> 
