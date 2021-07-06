@@ -1,11 +1,11 @@
 # HOME.INDEX__//READING-NOTES
 <br>
+
+### .dossier//_<b>my-introduction</b>
+
 <hr>
 
-### .dossier//_<b>get-to-know-me-a-little-better</b>
-
-<hr>
-<b> </b> // <b> </b> // <b> </b> // <b> </b> // <b> </b>
+<b> shanii </b> // <b> she / her</b> // <b> twenty-six </b> // <b> autumm child </b> // <b> </b>
 
 >
 
