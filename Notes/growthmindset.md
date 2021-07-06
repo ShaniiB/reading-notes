@@ -9,3 +9,4 @@ Growth mindset is to me is the ability is to excercise my mind and push it past 
     <li>I will be more <b>positive</b> when to comes to learning.</li>
     <li>I will push myself to become a <i> better learner</i>. </li>
   </ul>
+  
