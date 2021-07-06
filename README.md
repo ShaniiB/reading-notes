@@ -1,14 +1,20 @@
-# HOME.INDEX__// READING-NOTES
+# HOME.INDEX__//READING-NOTES
 
-### subject//___a brief introduction
+## subject//___a brief introduction
+<br>
+<hr>
 
-#### . //_<b>get to know me a little better</b>
+#### .dossier//_<b>get to know me a little better</b>
+
 <hr>
 <b> </b> // <b> </b> // <b> </b> // <b> </b> // <b> </b>
 <hr>
-<center><a href="https://github.com/ShaniiB"> myGitHub </a> 
-<b>//</b>   <a href=""> myLinkedIn</a>  <b>//</b> <a href="https://shaniib.github.io/reading-notes/Notes/growthmindset"> myMindset </a></center>
 
+<align="right"><a href="https://github.com/ShaniiB"> myGitHub </a> 
+<b>//</b>   <a href=""> myLinkedIn</a>  <b>//</b> <a href="https://shaniib.github.io/reading-notes/Notes/growthmindset"> myMindset </a> </align>
+
+<hr>
+<br>
 
 ### subject//___my collection of notes
  <ul>
@@ -20,4 +26,4 @@
   <li> <a href="https://shaniib.github.io/reading-notes/Notes/java-notes"> JavaScript Notes</a> </li>
   <li> <a href="https://shaniib.github.io/reading-notes/Notes/operators-and-loops"> Operators and Loops</a> </li>
  </ul>
- <hr>
+ 
