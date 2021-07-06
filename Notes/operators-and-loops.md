@@ -1,6 +1,6 @@
 # INDEX.NOTES__//OPERATORS-AND-LOOPS
 
-### __subject//___understanding expressions  
+### __subject//___understanding-expressions  
 
 
 > Expressions are essential building blocks of any Java program, usually created to produce a new value, although sometimes an expression assigns a value to a variable. Expressions are built using values, variables, operators and method calls.
