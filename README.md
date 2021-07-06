@@ -1,15 +1,16 @@
 # HOME.INDEX__// READING-NOTES
 
-#### subject//___brief introduction
+### subject//___a brief introduction
 
-. //_<b> get to know me a little. </b>
+#### . //_<b>get to know me a little better</b>
 <hr>
-<b> </b>
+<b> </b> // <b> </b> // <b> </b> // <b> </b> // <b> </b>
 <hr>
-<a href="https://github.com/ShaniiB"> myGitHub </a>   <a href=""> myLinkedIn</a>   <a href="https://shaniib.github.io/reading-notes/Notes/growthmindset"> myMindset </a> 
+<center><a href="https://github.com/ShaniiB"> myGitHub </a> 
+<b>//</b>   <a href=""> myLinkedIn</a>  <b>//</b> <a href="https://shaniib.github.io/reading-notes/Notes/growthmindset"> myMindset </a></center>
 
 
-#### subject//___my collection of notes
+### subject//___my collection of notes
  <ul>
   <li> <a href="https://shaniib.github.io/reading-notes/Notes/html-notes"> HTML Notes </a> </li>
   <li> <a href="https://shaniib.github.io/reading-notes/Notes/learning-markdown"> Learning Markdown </a> </li>
