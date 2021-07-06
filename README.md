@@ -11,8 +11,7 @@
 
 <hr>
 
-<center><a href="https://github.com/ShaniiB"> myGitHub </a> 
-<b>//</b>   <a href=""> myLinkedIn</a>  <b>//</b> <a href="https://shaniib.github.io/reading-notes/Notes/growthmindset"> myMindset </a> </center>
+<center><a href="https://github.com/ShaniiB"> myGitHub </a> <b>//</b>   <a href=""> myLinkedIn</a>  <b>//</b> <a href="https://shaniib.github.io/reading-notes/Notes/growthmindset"> myMindset </a> </center>
 
 <hr>
 <br>
