@@ -1,4 +1,4 @@
-# INDEX.NOTES__//OPERATORS-AND-LOOPS
+# INDEX.102-NOTES__//OPERATORS-AND-LOOPS
 
 ### __subject//___understanding-expressions  
 
@@ -12,7 +12,7 @@
 <ul>
   <li> <b> a Value </b> </li>
   <li> <b> a Variable </b> </li>
-  <li> <b> Nothing ( Void ) </b> </li>
+  <li> <b> nothing ( Void ) </b> </li>
 </ul>
 <a href="https://www.thoughtco.com/expression-2034097"> Detailed in here! </a>
 

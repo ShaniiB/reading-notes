@@ -1,4 +1,4 @@
-# INDEX.NOTES__/LEARNING-MARKDOWN
+# INDEX.102-NOTES__/LEARNING-MARKDOWN
 
 ### __subject//___what-is-markdown-language?  
 
@@ -7,7 +7,7 @@
 
 <hr>
 
- ### .snippet//__whats-so-great-about-it? 
+### .snippet//__whats-so-great-about-it? 
 
 <ul>
   <li> Markdown can be used for everything. People use it to create websites, documents, notes, books, presentations, email messages, and technical documentation.</li>
