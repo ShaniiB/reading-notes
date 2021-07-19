@@ -17,7 +17,7 @@
   <li> Markdown is everywhere. Websites like Reddit and GitHub support Markdown, and lots of desktop and web-based applications support it.</li>
 </ul>
 
-<hr><hr>
+<hr>
 
 ###  __subject//___understanding-the-language
 

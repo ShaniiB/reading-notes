@@ -16,8 +16,7 @@
 </ul>
 <a href="https://www.thoughtco.com/expression-2034097"> Detailed in here! </a>
 
-<hr><hr>
-
+<hr>
 ###  __subject//___understanding-java-operators
 
 ### ._//__<b>what-are-operators-in-java?</b>
@@ -35,7 +34,7 @@
   </ul>
 <a href="https://docs.oracle.com/javase/tutorial/java/nutsandbolts/opsummary.html"> More in here! </a>
 
-<hr><hr>
+<hr>
 
 ### __subject//___understanding-loops
 
