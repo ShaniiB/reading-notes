@@ -16,7 +16,7 @@
 <hr>
 <br>
 
-### subject//___my-collection-of-notes
+### subject//___my-collection-of-notes-class-102
 
 
  <ul>
@@ -27,4 +27,11 @@
   <li> <a href="https://shaniib.github.io/reading-notes/Notes/css-notes"> CSS Notes </a> </li>
   <li> <a href="https://shaniib.github.io/reading-notes/Notes/java-notes"> JavaScript Notes</a> </li>
   <li> <a href="https://shaniib.github.io/reading-notes/Notes/operators-and-loops"> Operators and Loops</a> </li>
+ </ul>
+
+ ### subject//___my-collection-of-notes-class-201
+
+
+ <ul>
+  <li> <a href="////"> Coming Soon </a> </li>
  </ul>
