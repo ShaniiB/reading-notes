@@ -22,8 +22,9 @@
   <li>  <b> ELEMENT </b> The opening tag, the closing tag, and the content together comprise the element. </li>
 
   <li>  <b> ATTRIBUTE </b> Are used to contain extra information about the element that you don't want to appear in the actual content. The class attribute allows you to give the element a non-unique identifier that can be used to target it (and any other elements with the same class value) with style information and other things. </li>
-
 </ul>
+
+<hr>
 
 ### .snippet//__attributes-should-always-have 
 

@@ -1,12 +1,12 @@
 # INDEX.102-NOTES__/CODERS-COMPUTER
 
-### __subject//___?????  
+### __subject//___what-is-a-terminal  
 
 > ---
 
 <hr>
 
-###  __subject//___?????
+###  __subject//___what-is-a-text-editor
 
 > ---
 
