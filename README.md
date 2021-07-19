@@ -29,9 +29,9 @@
   <li> <a href="https://shaniib.github.io/reading-notes/Notes-102/operators-and-loops"> Operators and Loops</a> </li>
  </ul>
 
+<br>
 
  ### subject//___my-collection-of-notes-class-201
-
 
  <ul>
   <li> <a href="////"> Coming Soon </a> </li>
