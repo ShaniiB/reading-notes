@@ -20,13 +20,13 @@
 
 
  <ul>
-  <li> <a href="https://shaniib.github.io/reading-notes/Notes/html-notes"> HTML Notes </a> </li>
-  <li> <a href="https://shaniib.github.io/reading-notes/Notes/learning-markdown"> Learning Markdown </a> </li>
-  <li> <a href="https://shaniib.github.io/reading-notes/Notes/coders-computer"> Coder's Computer </a> </li>
-  <li> <a href="https://shaniib.github.io/reading-notes/Notes/revisions-and-the-cloud"> Revisions and the Cloud </a> </li>
-  <li> <a href="https://shaniib.github.io/reading-notes/Notes/css-notes"> CSS Notes </a> </li>
-  <li> <a href="https://shaniib.github.io/reading-notes/Notes/java-notes"> JavaScript Notes</a> </li>
-  <li> <a href="https://shaniib.github.io/reading-notes/Notes/operators-and-loops"> Operators and Loops</a> </li>
+  <li> <a href="https://shaniib.github.io/reading-notes/Notes-102/html-notes"> HTML Notes </a> </li>
+  <li> <a href="https://shaniib.github.io/reading-notes/Notes-102/learning-markdown"> Learning Markdown </a> </li>
+  <li> <a href="https://shaniib.github.io/reading-notes/Notes-102/coders-computer"> Coder's Computer </a> </li>
+  <li> <a href="https://shaniib.github.io/reading-notes/Notes-102/revisions-and-the-cloud"> Revisions and the Cloud </a> </li>
+  <li> <a href="https://shaniib.github.io/reading-notes/Notes-102/css-notes"> CSS Notes </a> </li>
+  <li> <a href="https://shaniib.github.io/reading-notes/Notes-102/java-notes"> JavaScript Notes</a> </li>
+  <li> <a href="https://shaniib.github.io/reading-notes/Notes-102/operators-and-loops"> Operators and Loops</a> </li>
  </ul>
 
  ### subject//___my-collection-of-notes-class-201
