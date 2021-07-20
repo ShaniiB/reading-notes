@@ -1,6 +1,6 @@
 # INDEX.201-NOTES__//REFRESHING-THE-BASICS
 
-### __subject//___html-basics
+## __subject//___html-basics
 
 <hr>
 <blockquote>
@@ -13,20 +13,36 @@
    <li>HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc.</li>
 </ul>
 </blockquote>
+ 
 <hr>
 
+### __subject//___TEXT
 
-<center> To create a web page we must learn about <b> MARKUP</b> and it's purpose in HTML. </center>
+<center> To create a web page we must learn about <b> MARKUP</b> and it's purpose in HTML elements. </center>
 
 > Markup are also known as <b>tags</b>, they're used so that browsers can show the users the correct structure of the page while also providing extra in formation.
 
 <blockquote>
 <ul>
-   <li> <b> Structural Markup </b> is how you structure the layout for your web page.  </li>
-<b>[example]</b> tags like &60;head&62;  //  &60;body&62; &60;header&62;  //  &60;p&62;  //  &60;footer&62;
+   <li> <b> Structural Markup </b> are tags that you structure the layout for your web page. </li>
+    <b>example</b> coming soon
 <br>
-   <li> <b> Semantic Markup </b> is where the name of the tag gives extra information about the content.</li>
+   <li> <b> Semantic Markup </b> is where the name of the tag gives extra information about the content. </li>
+   <b>example</b> coming soon
+</ul>
+</blockquote>
+<br>
+<hr><hr>
+<br>
+## __subject//___css-basics
+<hr>
+<blockquote>
+<ul>
+   <li>---</li>
+   <li>---</li>
+   
 </ul>
 </blockquote>
 
 <hr>
+<center> ---- </center>
