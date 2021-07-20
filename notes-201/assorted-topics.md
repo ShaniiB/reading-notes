@@ -26,6 +26,7 @@
 <br>
 <b>example</b>
 <center> "<header> </header>"  //  "<main> </main>" //  "<footer> </footer>"  <center>
+<br>
    <li> <b> Semantic Markup </b> is where the name of the tag gives extra information about the content.</li>
 </ul>
 </blockquote>
