@@ -18,14 +18,12 @@
 
 <center> To create a web page we must learn about <b> MARKUP</b> and it's purpose in HTML. </center>
 
-> Markup are also known as <u>tags</u>,
+> Markup are also known as <b>tags</b>, they're used so that browsers can show the users the correct structure of the page while also providing extra in formation.
 
 <blockquote>
 <ul>
    <li> <b> Structural Markup </b> is how you structure the layout for your web page.  </li>
-<br>
-<b>example</b>
-<center> "<header> </header>"  //  "<main> </main>" //  "<footer> </footer>"  <center>
+<b>[example]</b> tags like &60;head&62;  //  &60;body&62; &60;header&62;  //  &60;p&62;  //  &60;footer&62;
 <br>
    <li> <b> Semantic Markup </b> is where the name of the tag gives extra information about the content.</li>
 </ul>
