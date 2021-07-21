@@ -1,34 +1,20 @@
 # INDEX.201-NOTES__//REFRESHING-THE-BASICS
 
 ## __subject//___html-basics
-
-<hr>
-<blockquote>
-<ul>
-   <li>HTML stands for Hyper Text Markup Language</li>
-   <li>HTML is the standard markup language for creating Web pages</li>
-   <li>HTML describes the structure of a Web page</li>
-   <li>HTML consists of a series of elements</li>
-   <li>HTML elements tell the browser how to display the content</li>
-   <li>HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc.</li>
-</ul>
-</blockquote>
  
 <hr>
 
-### __subject//___TEXT
-
-<center> To create a web page we must learn about <b> MARKUP</b> and it's purpose in HTML elements. </center>
+<center> To create a web page we must learn about two types of <b> MARKUP</b> and it's purpose in HTML elements. </center>
 
 > Markup are also known as <b>tags</b>, they're used so that browsers can show the users the correct structure of the page while also providing extra in formation.
 
 <blockquote>
 <ul>
-   <li> <b> Structural Markup </b> are tags that you structure the layout for your web page. </li>
-    <b>example</b> coming soon
+   <li> <b> Structural Markup </b> so think of these as tags that structure the layout for your web page. </li>
+    <b>example</b> <code> <head> </head> </code> 
 <br>
    <li> <b> Semantic Markup </b> is where the name of the tag gives extra information about the content. </li>
-   <b>example</b> coming soon
+   <b>example</b> pic coming soon
 </ul>
 </blockquote>
 <br>
@@ -40,7 +26,6 @@
 <ul>
    <li>---</li>
    <li>---</li>
-   
 </ul>
 </blockquote>
 
