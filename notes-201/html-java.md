@@ -8,7 +8,7 @@
 
 <li> Ordered Lists </Li>
 <li> Unorder Lists </li>
-<li> Definition Lists <li>
+<li> Definition Lists </li>
 
 <br>
 <hr>
