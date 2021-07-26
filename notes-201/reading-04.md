@@ -18,6 +18,8 @@ There are plenty of things you can do to a image to especially when you utilize 
 
 <center> Making sure your text and manipulating it by formating can make or break your page. You're able to change it's font style, color, size, if its all lowercased, uppercased, spaces between the letters and there is many of things you can do with your text. </center>
 
+You're also able to change colors by HEX, RGB, and HSL
+
 <ul>
 <li><code>color: red;</code></li>
 <li><code>font-size: 20px;</code></li>
