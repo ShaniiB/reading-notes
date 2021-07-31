@@ -1,39 +1,35 @@
 # INDEX.201-NOTES__//READING-05
 
-## __subject//___html-links
+## __subject//___what-is-an-Object?
  
 <hr>
 
-<center> HTML links are known as Hyperlinks that lets the user jump from one document to another on click! </center>
+<center> Objects groups together a set of variables and functions to create a model of whatever you want from thr real world. Objects let variables and functions take on new names. </center>
 
-There are -
-<li> Active links </Li>
-<li> Unvisited links </li>
-<li> Visited links </li>
+2 things : Variables become known as properties because of Object, and Functions are known as methods.
 
-In CSS you're able to style each one to your own liking with ease! You're even able to add an <code> :hover </code> effect when you run your mouse over it! 
-<br>
+<center> Like variables and named functions, properties and methods have a name and value. In an object, that name is called a <b>Key</b>
+
 <hr>
 
-## __subject//___css-layouts
- 
+## __subject//___DOM
+  also known as Document Object Model specifies how browsers should create a model of th HTML page, its how you access the webpage.
 <hr>
 
-<center> CSS uses HTML elements as if they're in their own boxes - can either be <b>block-level box</b> or <b>inline box</b> </center>
+Fundemental DOM Elements include
 
-You're able to position boxes in your layout to your liking by taking advantage of the <code>position property</code> and one of these values!
+<ul>
+<li>Document</li>
+<li>NODE</li>
+<li>Element</li>
+<li>NodeList</li>
+<li>Attribute</li>
+<li>NameNodeMap</li>
 
-<li> Static </Li>
-<li> Relative </li>
-<li> Absolute </li>
-<li> Fixed </Li>
+</ul>
 
-<br>
-<hr>
+Core Interfaces in the DOM
+This section lists some of the most commonly-used interfaces in the DOM. The idea is not to describe what these APIs do here but to give you an idea of the sorts of methods and properties you will see very often as you use the DOM.
 
-## __subject//___javascript-function
- 
-<hr>
-
-<center> JavaScript functions allow you too define a block of code, you can nave it whatever you want and also run it as many times as you want! </center>
-They consist on a series of statments thats been grouped together to preform a the specific task you set for it.
+The document and window objects are the objects whose interfaces you generally use most often in DOM programming. In simple terms, the window object represents something like the browser, and the document object is the root of the document itself. Element inherits from the generic Node interface, and together these two interfaces provide many of the methods and properties you use on individual elements. These elements may also have specific interfaces for dealing with the kind of data those elements hold, as in the table object.
+ <a href="https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction">good source</a>
