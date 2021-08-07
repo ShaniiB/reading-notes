@@ -1,39 +1,18 @@
 # INDEX.201-NOTES__//READING-10
 
-## __subject//___Object-Oriented Programming-&-HTML-Tables
+## __subject//___Assorted-Topics
  
 <hr>
 
-# __TOPIC__DOM-Manipulation
 
-<b>Document Object Model (DOM) </b> is a programming interface for HTML and XML documents. It represents the page so that programs can change the <u> document structure, style, and content </u>. The DOM represents the document as nodes and objects. That way, programming languages can connect to the page.
+> For images and inline frames has generally been pretty good and while the ability to add audio tracks and videos to a website has been around for years. Fortunately, this process has improved and is much easier with support directly from HTML.
 
-A web page is a document, That document can be either displayed in the browser window or through HTML source -- its the same document in both cases the DOM represents that same document so it can be manipulated. <center> <b> The DOM is an object-oriented representation of the web page, which can be modified with a scripting language such as JavaScript. </b> </center>
+<b> Adding Images </b>
+<code> <img src="///" alt="///////"> <code>
+To add images to a page use the img inline element. The img element is a self-containing, or empty, element, which means that it doesn’t wrap any other content and it exists as a single tag. You're also able to resize images and change the opacity easily through HTML & CSS.
 
-<b> OBJECT Method </b>
-Objects in JavaScript are collections of <b> key/value </b> pairs. The values can consist of <b> properties </b> and <b> methods</b>, and may contain <b> all </b> other JavaScript data types, such as strings, numbers, and Booleans.
+You're even able to add your image as a background or take it a step further by using things like CSS3 Gradients in as a backgroud image. 
 
-<br>
-<hr>
-## __subject//___HTML-Tables
-<center> HTML tables allow, you to arrange data into rows and columns on your website. </center>
+<li> Linear Gradients (goes down/up/left/right/diagonally) </li>
 
-<code>
-<table style="width:100%">
-  <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Age</th>
-  </tr>
-  <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-  </tr>
-</table>
-</code>
+<li> Radial Gradients (defined by their center) </li>
