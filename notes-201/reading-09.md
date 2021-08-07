@@ -1,19 +1,15 @@
-# INDEX.201-NOTES__//READING-07
+# INDEX.201-NOTES__//READING-09
 
-## __subject//___CSS-LAYOUTS
+## __subject//___Javascript-Debug
  
 <hr>
 
-<center> To successfully bring your ideas to life is by using some of the key concepts known as <b> Positionining Elements </b> </center>
-These are truly the building blocks to your layout and containing elements within them. Some known Elements are <b>Block-Level</b> & <>
+<center> JavaScript processes one line of code at a time, when a <b> Statement </b> needs data from another function, it <b> stacks </b> or piles the new function on top of the former. If there is a mistake or even a misplaced semi-colon or bracket will trigger an <b> Errror </b> </center>
 
-Next we will untilize <b>postioning</b> schemes such as :
-<li> NORMAL FLOW </li>
-<li> RELATIVE POSTIONING</li>
-<li> ABSOLUTE POSITIONING</li>
-<li> FIXED POSITIONING </li>
-<li> & FLOATING ELEMENTS </li>
+<b>Understanding the Error </b>
+If a Javascript statment generates an error, then it throws an <b> Exception </b> at this point, the interpreter stops and looks for <b> exception-handling </b> code.
 
-Using the thing like <b> z-index </b> will be able to layer content ontop of content.
+<b>Debugging</b>
+The debugger statement stops the execution of JavaScript, and calls (if available) the debugging function. Using the debugger statement has the same function as setting a breakpoint in the code. Normally, you activate debugging in your browser with the F12 key, and select "Console" in the debugger menu. <cite> <https://www.w3schools.com/js/js_debugging.asp> </cite>
 <br>
 <hr>

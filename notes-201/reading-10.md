@@ -1,15 +1,39 @@
 # INDEX.201-NOTES__//READING-10
 
-## __subject//___TOPICS
+## __subject//___Object-Oriented Programming-&-HTML-Tables
  
 <hr>
 
-<li> Images can be aligned both horizontally and vertically using CSS. </li>
+# __TOPIC__DOM-Manipulation
+
+<b>Document Object Model (DOM) </b> is a programming interface for HTML and XML documents. It represents the page so that programs can change the <u> document structure, style, and content </u>. The DOM represents the document as nodes and objects. That way, programming languages can connect to the page.
+
+A web page is a document, That document can be either displayed in the browser window or through HTML source -- its the same document in both cases the DOM represents that same document so it can be manipulated. <center> <b> The DOM is an object-oriented representation of the web page, which can be modified with a scripting language such as JavaScript. </b> </center>
+
+<b> OBJECT Method </b>
+Objects in JavaScript are collections of <b> key/value </b> pairs. The values can consist of <b> properties </b> and <b> methods</b>, and may contain <b> all </b> other JavaScript data types, such as strings, numbers, and Booleans.
+
 <br>
-<li> You can use a background image behind the box created by any element on a page. </li>
-<br>
-<li> Background images can appear just once or be repeated across the background of the box. </li>
-<br>
-<li> You can create image rollover effects by moving the background position of an image. </li>
-<br>
-<li> To reduce the number of images your browser has to load, you can create image sprites. </li>
+<hr>
+## __subject//___HTML-Tables
+<center> HTML tables allow, you to arrange data into rows and columns on your website. </center>
+
+<code>
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+</table>
+</code>
