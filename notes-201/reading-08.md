@@ -9,7 +9,7 @@ First off we'll start by learning the <b>Structure</b> of it.
 
 <hr>
 
-<center> <b>Form</b> controls lives inside a <b> Form </b> Element which should always carry the <b> Action Attribute </b>. <center>
+<center> <b>Form</b> controls lives inside a <b> Form </b> Element which should always carry the <b> Action Attribute </b>. </center>
 
 <li> Action & Method </li>
 Every <b>Form</b> element requires an <b> Action Attribute </b>, its value is the URL for the webpage on the server that will collect information from the form when submitted. <b> Forms </b> can be sent using the these two methods. <b> Get </b> or <b> Post </b>.
